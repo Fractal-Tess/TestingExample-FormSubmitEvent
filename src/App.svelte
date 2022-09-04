@@ -38,7 +38,7 @@
     <input type="text" placeholder="just a placehodler" />
     <p>Uncomment the button out or remove the button</p>
     <!-- All of these should work, but can we do it without a button? -->
-    <button>Submit</button>
+    <!-- <button>Submit</button> -->
     <!-- <button class="hidden">This button show be hidden</button> -->
     <!-- <button class="budget-hidden" /> -->
   </form>
